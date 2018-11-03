@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+  <qresource prefix="developer">
+    <file>Rizwan_Hasan.JPG</file>
+  </qresource>
+  <qresource prefix="license">
+    <file>MIT_License.png</file>
+  </qresource>
+  <qresource prefix="extra">
+    <file>cgpa_holder.png</file>
+  </qresource>
+  <qresource prefix="tabIcon">
+    <file>about.png</file>
+    <file>calculator.png</file>
+  </qresource>
+  <qresource prefix="header">
+    <file>header.png</file>
+  </qresource>
+</RCC>
