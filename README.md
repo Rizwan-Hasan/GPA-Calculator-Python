@@ -1,1 +1,1 @@
-# CGPA Calculator Python
+# GPA Calculator Python
